@@ -1,4 +1,4 @@
-<h4>flow this repo redux done</h4>
+<h4>follow this repo you will  get basic idea about redux </h4>
 
 <p>
 <Provider store={store}> 
